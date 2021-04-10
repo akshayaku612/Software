@@ -1,0 +1,14 @@
+XPath Syntax with Examples
+
+In order to avoid typing the whole path, you can use "//" and mention the tag you want to search. The "//" allows you to overlook all the intermediate tags
+/html/body/div/h1  =  //h1
+
+//div/h1 => The direct h1 tags inside div
+
+//div//h1 => innermost h1 tags inside div
+
+//span[@class="title"] => all the span tags which have the class "title"
+
+//span[@class="title"]/text() => will get you the text for the span tags with the class="title"
+
+//span[@class="title"]/@id => gets you all the id values for the span tags with the class="title"
