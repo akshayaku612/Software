@@ -1,17 +1,13 @@
-Each git branch represents a software field and consists of projects in that field.
+Add the list of all the projects here and give a few lines description about it
 
-Can put the overall tree structure of all the project names here and details
+1) Python Web Scraping
+--------
+----------
+-------
 
-1) Back End
-  a) Spring Restapi - 2 line description
-  b) 
-2) Data Science
-  a) Python Webscaping - 2 line description
-3) Front End
-4) Full Stack
-....
+2) Spring Restapi
+--------
+------------
+---------
 
-In each branch, add a readme to provide the list of all the projects and inside each folder add a readme to describe the project
-
-
-Do similarly for Electronics, Mech, Firmware etc....
+etc etc
