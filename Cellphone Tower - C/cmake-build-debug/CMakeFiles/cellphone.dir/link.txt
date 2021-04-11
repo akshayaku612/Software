@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Werror -g  -Wl,--enable-auto-import CMakeFiles/cellphone.dir/main.c.o CMakeFiles/cellphone.dir/Phone.c.o CMakeFiles/cellphone.dir/Tower.c.o  -o cellphone.exe -Wl,--out-implib,libcellphone.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

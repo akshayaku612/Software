@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/aku_1/CLionProjects/cellphone/PhoneTower.h
+
+/cygdrive/c/Users/aku_1/CLionProjects/cellphone/Tower.c
+stdlib.h
+-
+PhoneTower.h
+/cygdrive/c/Users/aku_1/CLionProjects/cellphone/PhoneTower.h
+string.h
+-
+stdio.h
+-
+
