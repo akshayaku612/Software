@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #Remote and local branch commits
-REMOTE="$(git rev-parse --verify origin/feature/akamalpuram)"
+REMOTE="$(git rev-parse --verify origin/automation)"
 LOCAL="$(git rev-parse --verify HEAD)"
 
 #Checks if the latest commits are same
